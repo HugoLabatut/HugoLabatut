@@ -1,6 +1,6 @@
 ## Bienvenue sur mon GitHub 👋
 
-Etudiant en 2nde année de BTS Services Informatiques aux Organisations (SIO) option Solutions Logicielles et Applications Métiers (SLAM).
+Titulaire d'un Bac +2 (BTS Services Informatiques aux Organisations - Solutions Logicielles et Applications Métiers). En route pour un Bac +3 (Licence Générale - Informatique, développement d'applications).
 
 ### Mes stats sur GitHub
 
