@@ -1,6 +1,6 @@
 ## Bienvenue sur mon GitHub 👋
 
-Titulaire d'un Bac +2 (BTS Services Informatiques aux Organisations - Solutions Logicielles et Applications Métiers). En route pour un Bac +3 (Licence Générale - Informatique, développement d'applications).
+Etudiant Bac +3 - Licence Générale, développement backend & frontend - CNAM Nouvelle-Aquitaine
 
 ### Mes stats sur GitHub
 
