@@ -1,6 +1,6 @@
 ## Bienvenue sur mon GitHub 👋
 
-Etudiant Bac +3 - Licence Générale, développement backend & frontend - CNAM Nouvelle-Aquitaine
+A la recherche d'une alternance - Bachelor 3 Développement - Campus YNOV, Bordeaux
 
 ### Mes stats sur GitHub
 
