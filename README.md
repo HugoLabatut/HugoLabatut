@@ -1,6 +1,6 @@
 ## Bienvenue sur mon GitHub 👋
 
-A la recherche d'une alternance - Bachelor 3 Développement - Campus YNOV, Bordeaux
+Jeune développeur entrain d'apprendre tout le temps
 
 ### Mes stats sur GitHub
 
